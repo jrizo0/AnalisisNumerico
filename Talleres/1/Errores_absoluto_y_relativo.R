@@ -13,4 +13,5 @@ drestada = d - ErrorA ; #Distancia restada por el error absoluto
 dsumada = d+ ErrorA;    #Distancia sumada por el error absoluto
 cat ("Este es el valor del error absoluto",ErrorA);
 cat ("Este es el valor del error relativo",ErrorR,"%");
-cat ("La distancia va de", drestado ,"<=",d,"<=", dsumado);
+cat ("La distancia va de", drestada ,"<=",d,"<=", dsumada);
+
