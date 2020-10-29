@@ -2,6 +2,8 @@
 # Regla de romberg #
 ####################
 
+require(pracma)
+
 f <- function(x) sin(x)/x
 
 
